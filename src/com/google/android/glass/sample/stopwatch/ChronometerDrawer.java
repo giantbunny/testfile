@@ -16,6 +16,7 @@
 
 package com.google.android.glass.sample.stopwatch;
 
+
 import com.google.android.glass.timeline.DirectRenderingCallback;
 
 import android.content.Context;
